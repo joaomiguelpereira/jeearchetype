@@ -1,0 +1,1 @@
+A lean JEE Archetype
